@@ -4,7 +4,7 @@
 
 ![Chain K](https://img.shields.io/badge/Chain%20K-64748B?style=for-the-badge) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)](LICENSE-GPL) [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue?style=for-the-badge)](LICENSE-AGPL)
 
-[📖 Lesson Plan](docs/LESSON_PLAN.md) · [🎮 Interactive Tour](docs/interactive/index.html)
+[📖 Lesson Plan](docs/LESSON_PLAN.md)
 
 <!-- SCREENSHOT PLACEHOLDER: docs/screenshots/overview.png -->
 
@@ -14,7 +14,7 @@
 
 The Raspberry Pi is the cheapest way to own a machine you fully control and can afford to break. Headless
 setup and SSH make it a genuine server; GPIO makes it a bridge to the physical world, which almost nothing
-else in my curriculum touches.
+else in my learning track touches.
 
 I want to run real always-on services on it — the kind of small, useful infrastructure that teaches you
 about uptime, restarts, and what happens when the power blips.
